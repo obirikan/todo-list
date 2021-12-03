@@ -1,0 +1,34 @@
+input{
+    border:1px solid grey;
+}
+.inpu{
+    float: right;
+    position: relative;
+    right: 20px;
+}
+ul{
+    border:1px solid grey;
+    margin: 10px;
+    padding: 10px;
+    background-image: repeating-linear-gradient(120deg,red,blue);
+}
+.main{
+    float: initial;
+}
+
+button{
+    float: right;
+}
+li{
+    list-style-type:none;
+    font-weight: bold;
+    border:1px solid rgb(204, 40, 40);
+    margin: 10px;
+    padding: 10px;
+}
+.kev{
+    width:100px;
+    height:200px;
+    background-color: black;
+    animation: nam 2s;
+}
